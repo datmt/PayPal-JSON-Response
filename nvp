@@ -1,0 +1,2 @@
+SetExpressCheckout response
+{"TOKEN":"EC-99M177823M0005900","TIMESTAMP":"2018-07-10T07:29:42Z","CORRELATIONID":"3802c95367aa8","ACK":"Success","VERSION":"86","BUILD":"47733884","pay_url":"https:\/\/www.sandbox.paypal.com\/cgi-bin\/webscr?cmd=_express-checkout&token=EC-99M177823M0005900"}
